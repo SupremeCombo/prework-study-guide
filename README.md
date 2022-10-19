@@ -2,14 +2,7 @@
 
 ## Description
 
-- What was your motivation?
-    I want to become a web developer.
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-    I did this project because it helped create an understanding of these programming languages as well as Git.
-- What problem does it solve?
-    They are my notes so they are very useful to me.
-- What did you learn?
-    Learned about three programming languages used in web development. (HTML, CSS, and Javascript.)
+This project taught me the fundamentals of JavaScript, Git, CSS, and HTML. This project contains my notes.
 
 ## Installation
 
